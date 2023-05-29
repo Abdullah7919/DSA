@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "new": "cpp"
+    },
+    "code-runner.runInTerminal": true
+}
